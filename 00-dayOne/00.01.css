@@ -1,0 +1,34 @@
+h1 {
+  color: lightgreen;
+  text-align: center;
+}
+h3 {
+  color: blue;
+}
+p {
+  color: red;
+}
+#TwoTruths {
+  border-width: thick;
+  border-style: solid;
+  border-color: black;
+  border-radius: 10px;
+  background-color: grey;
+  text-align: center;
+  height: 400px;
+  width: 100%;
+}
+.truths {
+  background-color: lightgray;
+  text-align: center;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 10px;
+  margin: 5px;
+  width: 25%;
+}
+.align {
+  display: flex;
+  justify-content: space-evenly;
+}
