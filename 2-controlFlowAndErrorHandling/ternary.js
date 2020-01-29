@@ -28,11 +28,17 @@ if (nums == 0) {
 } else {
   console.log("still not working");
 }
-let age = 27;
+
+//
+//
+//
+//
+
+let age = 1;
 age >= 25
   ? console.log("you can rent a car!")
   : age >= 21
   ? console.log("you can drink!")
   : age >= 18
   ? console.log("yay you can vote!")
-  : console.log("sorry youre to young to do anything fun");
+  : console.log("sorry you're to young to do anything fun");

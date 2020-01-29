@@ -13,12 +13,12 @@ CHALLENGE
     If it is not, console.log the first letter of the string to uppercase plus the rest of the string to lowercase
 */
 
-// let name = "DAnIel";
-// if (name.charAt(0) == name.charAt(0).toUpperCase()) {
-//   console.log(name.charAt(0) + name.slice(1).toLowerCase());
-// } else {
-//   console.log(name.charAt(0).toUpperCase()+name.slice(1).toLowerCase());
-// }
+let name = "DAnIel";
+if (name.charAt(0) == name.charAt(0).toUpperCase()) {
+  console.log(name.charAt(0) + name.slice(1).toLowerCase());
+} else {
+  console.log(name.charAt(0).toUpperCase() + name.slice(1).toLowerCase());
+}
 
 let age = 28;
 
